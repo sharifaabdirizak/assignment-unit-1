@@ -4,7 +4,7 @@ body {
  margin: auto;
 flex-direction: column;
 min-height: 100vh;
-background-color: #a2a8d3;;
+background-color: #929df0;;
    
 }
 
@@ -16,7 +16,7 @@ header {
 
 
   .footer {
-    background-color: #df0882;
+    background-color: #ecaacf;
     display: flex;
     align-items: flex-end;
     margin-top: auto;
@@ -25,9 +25,6 @@ header {
     text-align: center;
   }
   
-
-
-
   
 
   h1 {
@@ -37,14 +34,12 @@ header {
   }
   
 
-
 p {
     color: azure;
     font-style: italic;
-    font-size: 10px;
-}
+    font-size: 15px;
 
-
+    }
 
 img {
     height: 250px;
@@ -61,7 +56,9 @@ ul{
 
 .list {
 margin-left: 20px;
+
 }
+
 
 /* Give your page a fun background color */
 
