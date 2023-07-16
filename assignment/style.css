@@ -1,24 +1,30 @@
 
 body {
-    margin: 0;
-    padding: 20px;
-    background-color: #a2a8d3;;
-    color: #333333;
-  }
+ display: flex;   
+ margin: auto;
+flex-direction: column;
+min-height: 100vh;
+background-color: #a2a8d3;;
+   
+}
 
 
-  .header {
+header {
     background-color: pink;
-    padding:20;
+    padding:20px;
   }
 
 
-  .footer{
-    text-align: center;
-    color: #f8f0f0;
-    font-size: 14px;
+  .footer {
+    background-color: #df0882;
+    display: flex;
+    align-items: flex-end;
+    margin-top: auto;
+    padding: 20px;
   }
   
+  
+
 
   h1 {
     text-align: center;
@@ -26,6 +32,8 @@ body {
     margin-bottom: 10px;
   }
   
+
+
 
 p {
     color: azure;
@@ -41,10 +49,10 @@ img {
     margin-left: 20px;
     margin-top: 40px;
     margin-bottom: 30;
-    border: 10 px solid #a2a8d3 ;
+    border: 10 px solid #a2a8d3;
 }
 
-ul {
+ul{
     font-family: 'Poppins', sans-serif;
 }
 
