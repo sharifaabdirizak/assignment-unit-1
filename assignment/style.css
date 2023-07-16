@@ -1,6 +1,5 @@
 
-body{
-    font-family: 'Poppins', sans-serif;
+body {
     margin: 0;
     padding: 20px;
     background-color: #a2a8d3;;
@@ -8,9 +7,9 @@ body{
   }
 
 
-  header {
-    background-color: pink
-    padding: 20;
+  .header {
+    background-color: pink;
+    padding:20;
   }
 
 
@@ -20,19 +19,15 @@ body{
     font-size: 14px;
   }
   
-  
 
-
-  h1{
+  h1 {
     text-align: center;
     font-size: 24px;
     margin-bottom: 10px;
   }
   
 
-
-
-p{
+p {
     color: azure;
     font-style: italic;
     font-size: 10px;
@@ -40,6 +35,22 @@ p{
 
 
 
+img {
+    height: 250px;
+    width: 225px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 30;
+    border: 10 px solid #a2a8d3 ;
+}
+
+ul {
+    font-family: 'Poppins', sans-serif;
+}
+
+.list {
+margin-left: 20px;
+}
 
 /* Give your page a fun background color */
 
